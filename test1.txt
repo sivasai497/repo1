@@ -4,4 +4,9 @@ This is third change
 this is fourth change
 this is commit by local
 this is commit in github
+<<<<<<< HEAD
 this is 7thline local commit
+=======
+
+this is 8th line commit by git
+>>>>>>> refs/remotes/origin/main
